@@ -27,6 +27,6 @@ A python script that takes in any Wikipedia URL and creates a collage of the pic
 
 Run Command:
 
-	python wikipedia_collage.py
+	python3 wikipedia_collage.py
 
 * Follow the prompts (enter desired collage size & enter wikipedia URL)
