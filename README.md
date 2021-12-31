@@ -4,7 +4,7 @@ A python script that takes in any Wikipedia URL and creates a collage of the pic
 
 # What I Learned :notebook:
 
-* How to web scrape with Python [bs4 library].
+* How to web scrape with Python [bs4 library, requests library].
 * How to work with images in Python [pillow library].
 * How to interact with the OS using python [os library].
 * How to create custom exceptions in Python.
