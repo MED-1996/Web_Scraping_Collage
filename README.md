@@ -11,7 +11,7 @@ A python script that takes in any Wikipedia URL and creates a collage of the pic
 
 # Example of Collage :framed_picture:
 
-***Terminal Interaction: Enter a collage size & the desired URL.***
+***Terminal Interaction: Enter a collage size & the desired URL.*** [COVID 19 Wikipedia](https://en.wikipedia.org/wiki/COVID-19_pandemic)
 
 ![hi](https://github.com/MED-1996/Web_Scraping_Collage/blob/main/Example_Terminal_Code.png)
 
